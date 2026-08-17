@@ -336,6 +336,3 @@ Zomato-End-To-End-Data-Analysis/
     ├── Restaurant Analysis.png
     └── Insights.png
 ---
-
-Dynamic_TopN
-Dynamic_subheading
