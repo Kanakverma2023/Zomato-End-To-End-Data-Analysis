@@ -87,9 +87,6 @@ The data model includes tables such as:
 - `users`
 - `restaurant`
 - `menu`
-- `CurrYear`
-- `Measure_Table`
-- `RankTable`
 
 The dataset contains fields related to:
 
