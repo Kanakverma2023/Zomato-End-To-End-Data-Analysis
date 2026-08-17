@@ -321,19 +321,20 @@ The dashboard enables analysis of the following areas:
 Zomato-End-To-End-Data-Analysis/
 │
 ├── README.md
-├── Zomato.pbix
 │
-├── data/
+├── Data/
 │   ├── README.md
-│   └── Zomato_Dataset.csv
+│   └── food.csv
+│   └── orders.csv
+│   └── users.csv
 │
 └── screenshots/
-    ├── Home_page.png
-    ├── overview.png
-    ├── user_performance.png
-    ├── city_analysis.png
-    ├── restaurant_analysis.png
-    └── insights.png
+    ├── Home.png
+    ├── Overview.png
+    ├── User Performance.png
+    ├── City Analysis.png
+    ├── Restaurant Analysis.png
+    └── Insights.png
 ### Author
 
 **Kanak Verma**
