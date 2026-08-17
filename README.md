@@ -87,6 +87,7 @@ The data model includes tables such as:
 - `users`
 - `restaurant`
 - `menu`
+- `food`
 
 The dataset contains fields related to:
 
@@ -104,7 +105,7 @@ The dataset contains fields related to:
 - Menu price
 - Food type
 
-The dataset is stored separately in the `data` folder of the repository.
+The dataset is stored separately in the `Data` folder of the repository.
 
 ---
 
