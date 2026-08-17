@@ -8,27 +8,27 @@ Designed a **Zomato-themed Power BI dashboard** to analyze sales performance, us
 
 ### 1. Home Page
 
-![Home Page](screenshots/Home_page.png)
+<img width="1294" height="759" alt="Screenshot 2026-08-17 191813" src="https://github.com/user-attachments/assets/64f80aac-6f73-4792-9cc1-cf2f325e4106" />
 
 ### 2. Overview
 
-![Overview](screenshots/overview.png)
+<img width="1315" height="750" alt="Screenshot 2026-08-17 191643" src="https://github.com/user-attachments/assets/76408de2-041c-49f8-abe2-49bcd8d5cefa" />
 
 ### 3. User Performance
 
-![User Performance](screenshots/user_performance.png)
+<img width="1300" height="746" alt="Screenshot 2026-08-17 191745" src="https://github.com/user-attachments/assets/fe798e50-2d68-4015-8bec-15e5c6724338" />
 
 ### 4. City Analysis
 
-![City Analysis](screenshots/city_analysis.png)
+<img width="1299" height="744" alt="Screenshot 2026-08-17 191710" src="https://github.com/user-attachments/assets/15f21a6e-4e1c-48f9-8f92-307e38012d57" />
 
 ### 5. Restaurant Analysis
 
-![Restaurant Analysis](screenshots/restaurant_analysis.png)
+<img width="1285" height="728" alt="Screenshot 2026-08-17 191730" src="https://github.com/user-attachments/assets/990a4db9-ca8f-4854-8093-38670c3a63ea" />
 
 ### 6. Insights
 
-![Insights](screenshots/insights.png)
+<img width="1313" height="750" alt="Screenshot 2026-08-17 191759" src="https://github.com/user-attachments/assets/987fc4cb-c35d-4329-aba7-c731170a0151" />
 
 ---
 
