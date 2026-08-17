@@ -335,18 +335,8 @@ Zomato-End-To-End-Data-Analysis/
     ├── City Analysis.png
     ├── Restaurant Analysis.png
     └── Insights.png
-### Author
 
-**Kanak Verma**
 
-Aspiring Data Analyst | Power BI | DAX | Data Analytics
-
----
-
-## ⭐ If you found this project helpful, consider giving it a star!
-TopN_Sale
-Dynamic_TopN
-Dynamic_subheading
 
 
 ---
