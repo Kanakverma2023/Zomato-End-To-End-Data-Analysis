@@ -141,29 +141,6 @@ DAX measures were created to calculate key business metrics, including sales, or
 
 The prepared data model supports interactive dashboard pages with KPIs, filters, dynamic analysis, and visual comparisons across multiple business dimensions.
 
----
-
-## DAX Measures Used
-
-The dashboard uses DAX measures for KPI calculations, customer analysis, year-based comparisons, restaurant analysis, and dynamic Top N analysis.
-
-Some of the measures used include:
-
-```DAX
-Sale_Value
-Order_Count
-User_Count
-Active_Users
-CurrYr_Sale
-PrevYr_Sale
-GainCustomers
-LostCustomers
-Rating Counts
-Restaurant_Count
-Total_cities
-Average Rating
-
-## Dashboard Features
 
 The dashboard contains **6 interactive report pages**, each focusing on a different area of Zomato business performance.
 
@@ -371,3 +348,7 @@ Aspiring Data Analyst | Power BI | DAX | Data Analytics
 TopN_Sale
 Dynamic_TopN
 Dynamic_subheading
+
+
+---
+
